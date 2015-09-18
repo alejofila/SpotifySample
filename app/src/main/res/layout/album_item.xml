@@ -11,7 +11,7 @@
     card_view:cardUseCompatPadding="true"
     android:foreground="?android:attr/selectableItemBackground"
     android:clickable="true"
-    card_view:cardBackgroundColor="@color/blue_gray"
+    card_view:cardBackgroundColor="@color/lbl_name"
 
     >
 
